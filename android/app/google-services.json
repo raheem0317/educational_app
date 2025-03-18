@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "496495793059",
+    "firebase_url": "https://educationapp-3cc2f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "educationapp-3cc2f",
+    "storage_bucket": "educationapp-3cc2f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496495793059:android:0b09305bea1fbba4d24016",
+        "android_client_info": {
+          "package_name": "com.example.education_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzjLFsX7d-Wqf8r8hoAh6Fs_LSVDkTzr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
